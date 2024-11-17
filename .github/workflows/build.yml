@@ -23,7 +23,7 @@ on:
 env:
   REPO_URL: https://github.com/immortalwrt/immortalwrt
   REPO_BRANCH: master
-  CONFIG_FILE: configs/Packages.txt
+  CONFIG_FILE: configs/Config.txt
   FREE_DISK_SH: scripts/free_disk_space.sh
   ENV_SH: scripts/environment.sh
   SETTINGS_SH: scripts/init-settings.sh
